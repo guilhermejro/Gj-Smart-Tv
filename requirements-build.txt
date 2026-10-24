@@ -1,0 +1,3 @@
+# Ferramentas de build/teste (não vão para o app final). Versões fixas; sem hashes.
+pyinstaller==6.22.3
+pytest==9.1.1
